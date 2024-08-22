@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1724325074903,
+      "tag": "0000_tired_fixer",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1724327289192,
+      "tag": "0001_colorful_hiroim",
+      "breakpoints": true
+    }
+  ]
+}
